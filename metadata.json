@@ -1,0 +1,6 @@
+{
+  "name": "Sharodiya — Durga Puja Nostalgia",
+  "description": "An immersive, cinematic nostalgic digital experience celebrating Bengali Sharodiya Durga Puja, Kolkata pandals, dhaak beats, and memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
